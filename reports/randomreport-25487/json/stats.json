@@ -1,0 +1,634 @@
+{
+    "type": "GROUP",
+    "name": "Global Information",
+    "path": "",
+    "pathFormatted": "group_missing-name-b06d1",
+    "stats": {
+        "name": "Global Information",
+        "numberOfRequests": {
+            "total": 58,
+            "ok": 58,
+            "ko": 0
+        },
+        "minResponseTime": {
+            "total": 214,
+            "ok": 214,
+            "ko": 0
+        },
+        "maxResponseTime": {
+            "total": 15619,
+            "ok": 15619,
+            "ko": 0
+        },
+        "meanResponseTime": {
+            "total": 653,
+            "ok": 653,
+            "ko": 0
+        },
+        "standardDeviation": {
+            "total": 1985,
+            "ok": 1985,
+            "ko": 0
+        },
+        "percentiles1": {
+            "total": 371,
+            "ok": 371,
+            "ko": 0
+        },
+        "percentiles2": {
+            "total": 405,
+            "ok": 405,
+            "ko": 0
+        },
+        "percentiles3": {
+            "total": 658,
+            "ok": 658,
+            "ko": 0
+        },
+        "percentiles4": {
+            "total": 7206,
+            "ok": 7206,
+            "ko": 0
+        },
+        "group1": {
+            "name": "t < 800 ms",
+            "count": 56,
+            "percentage": 97
+        },
+        "group2": {
+            "name": "800 ms < t < 1200 ms",
+            "count": 1,
+            "percentage": 2
+        },
+        "group3": {
+            "name": "t > 1200 ms",
+            "count": 1,
+            "percentage": 2
+        },
+        "group4": {
+            "name": "failed",
+            "count": 0,
+            "percentage": 0
+        },
+        "meanNumberOfRequestsPerSecond": {
+            "total": 0.1939799331103679,
+            "ok": 0.1939799331103679,
+            "ko": 0
+        }
+    },
+    "contents": {
+        "req_create-project--bddbe": {
+            "type": "REQUEST",
+            "name": "Create Project Test WebGoat Server-feb003d8-a31e-44dd-9bb1-af715bebf2de for org d89d9103-89c7-4a74-968e-a8b93ea8f7bb",
+            "path": "Create Project Test WebGoat Server-feb003d8-a31e-44dd-9bb1-af715bebf2de for org d89d9103-89c7-4a74-968e-a8b93ea8f7bb",
+            "pathFormatted": "req_create-project--bddbe",
+            "stats": {
+                "name": "Create Project Test WebGoat Server-feb003d8-a31e-44dd-9bb1-af715bebf2de for org d89d9103-89c7-4a74-968e-a8b93ea8f7bb",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 647,
+                    "ok": 647,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        },
+        "req_upload-artifact-41184": {
+            "type": "REQUEST",
+            "name": "Upload Artifact archives/external/webgoat-server-8.1.0.jar for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+            "path": "Upload Artifact archives/external/webgoat-server-8.1.0.jar for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+            "pathFormatted": "req_upload-artifact-41184",
+            "stats": {
+                "name": "Upload Artifact archives/external/webgoat-server-8.1.0.jar for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 15619,
+                    "ok": 15619,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        },
+        "req_scan-artifact-1-edf0f": {
+            "type": "REQUEST",
+            "name": "Scan Artifact 166626e7-d1d7-4ec5-b602-27c1f92a5b26",
+            "path": "Scan Artifact 166626e7-d1d7-4ec5-b602-27c1f92a5b26",
+            "pathFormatted": "req_scan-artifact-1-edf0f",
+            "stats": {
+                "name": "Scan Artifact 166626e7-d1d7-4ec5-b602-27c1f92a5b26",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 468,
+                    "ok": 468,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        },
+        "req_get-scan-status-dab35": {
+            "type": "REQUEST",
+            "name": "Get Scan Status for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "path": "Get Scan Status for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "pathFormatted": "req_get-scan-status-dab35",
+            "stats": {
+                "name": "Get Scan Status for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+                "numberOfRequests": {
+                    "total": 52,
+                    "ok": 52,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 214,
+                    "ok": 214,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 563,
+                    "ok": 563,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 367,
+                    "ok": 367,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 48,
+                    "ok": 48,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 367,
+                    "ok": 367,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 390,
+                    "ok": 390,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 427,
+                    "ok": 427,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 521,
+                    "ok": 521,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 52,
+                    "percentage": 100
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.17391304347826086,
+                    "ok": 0.17391304347826086,
+                    "ko": 0
+                }
+            }
+        },
+        "req_get-results-for-b359a": {
+            "type": "REQUEST",
+            "name": "Get results for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "path": "Get results for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "pathFormatted": "req_get-results-for-b359a",
+            "stats": {
+                "name": "Get results for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 723,
+                    "ok": 723,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        },
+        "req_get-project-ove-c72a7": {
+            "type": "REQUEST",
+            "name": "Get Project Overview for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+            "path": "Get Project Overview for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+            "pathFormatted": "req_get-project-ove-c72a7",
+            "stats": {
+                "name": "Get Project Overview for project f55cdfbb-5f95-40bd-9100-36b012dd5a91",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 444,
+                    "ok": 444,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        },
+        "req_get-scan-overvi-c5556": {
+            "type": "REQUEST",
+            "name": "Get Scan Overview for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "path": "Get Scan Overview for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+            "pathFormatted": "req_get-scan-overvi-c5556",
+            "stats": {
+                "name": "Get Scan Overview for scan 726444e4-c8f3-472a-90ad-b96a9e32f3cc",
+                "numberOfRequests": {
+                    "total": 1,
+                    "ok": 1,
+                    "ko": 0
+                },
+                "minResponseTime": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "maxResponseTime": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "meanResponseTime": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "standardDeviation": {
+                    "total": 0,
+                    "ok": 0,
+                    "ko": 0
+                },
+                "percentiles1": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "percentiles2": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "percentiles3": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "percentiles4": {
+                    "total": 860,
+                    "ok": 860,
+                    "ko": 0
+                },
+                "group1": {
+                    "name": "t < 800 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group2": {
+                    "name": "800 ms < t < 1200 ms",
+                    "count": 1,
+                    "percentage": 100
+                },
+                "group3": {
+                    "name": "t > 1200 ms",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "group4": {
+                    "name": "failed",
+                    "count": 0,
+                    "percentage": 0
+                },
+                "meanNumberOfRequestsPerSecond": {
+                    "total": 0.0033444816053511705,
+                    "ok": 0.0033444816053511705,
+                    "ko": 0
+                }
+            }
+        }
+    }
+}
