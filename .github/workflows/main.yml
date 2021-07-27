@@ -29,5 +29,5 @@ jobs:
         uses: steviemul/gatling-annotations@v1.0
         with:
           name: Integration Test Results
-          report-path: reports/simulation-*/json
+          report-path: reports/harmonysimulation-*/js
           access-token: ${{ secrets.GITHUB_TOKEN }}

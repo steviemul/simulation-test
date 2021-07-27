@@ -1,0 +1,10 @@
+{
+  "simulation": "com.contrastsecurity.sast.tests.HarmonySimulation",
+  "simulationId": "harmonysimulation",
+  "start": 1621431188935,
+  "description": "",
+  "scenarios": ["Scan artifact"],
+  "assertions": [
+
+  ]
+}

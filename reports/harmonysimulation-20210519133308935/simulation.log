@@ -1,0 +1,12 @@
+RUN	com.contrastsecurity.sast.tests.HarmonySimulation	harmonysimulation	1621431188935	 	3.4.1
+USER	Scan artifact	START	1621431189940
+REQUEST		Create Project Test Project Valid for org d89d9103-89c7-4a74-968e-a8b93ea8f7bb	1621431189978	1621431190219	OK	 
+REQUEST		Upload Artifact archives/dummy/valid-jar.jar for project 6073a787-22c8-418f-9291-bdffa5f10706	1621431190297	1621431190764	OK	 
+REQUEST		Scan Artifact 1ada0f4f-55ad-441f-ad88-f7b272c05911	1621431190767	1621431190911	OK	 
+REQUEST		Get Scan Status for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431190916	1621431191023	OK	 
+REQUEST		Get Scan Status for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431196028	1621431196144	OK	 
+REQUEST		Get Scan Status for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431201146	1621431201250	OK	 
+REQUEST		Get Scan Status for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431206252	1621431206343	OK	 
+REQUEST		Get Scan Status for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431211346	1621431211443	OK	 
+REQUEST		Get results for scan 6a82d6d5-5e13-4b0d-bf0e-a1d486c9f27b	1621431216447	1621431216707	OK	 
+USER	Scan artifact	END	1621431221717
